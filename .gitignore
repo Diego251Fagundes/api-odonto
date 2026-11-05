@@ -1,0 +1,12 @@
+# Saidas de compilacao e arquivos locais
+**/target/
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+*.iml
+*.log
+.env
+.env.*
+**/.env
+**/.env.*
